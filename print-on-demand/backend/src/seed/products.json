@@ -1,0 +1,7 @@
+[
+  {"name":"Classic Men Tee","category":"Men","designCategory":"Minimal","type":"T-shirt","sizes":["S","M","L","XL"],"colors":["Black","White"],"basePrice":499},
+  {"name":"Women Anime Hoodie","category":"Women","designCategory":"Anime","type":"Hoodie","sizes":["S","M","L"],"colors":["Black","Pink"],"basePrice":899},
+  {"name":"Unisex Gaming Cap","category":"Unisex","designCategory":"Gaming","type":"Cap","sizes":["Free"],"colors":["Black","Blue"],"basePrice":399},
+  {"name":"Sports Performance Tee","category":"Men","designCategory":"Sports","type":"Sports T-shirt","sizes":["S","M","L","XL"],"colors":["Red","Blue"],"basePrice":599},
+  {"name":"Mandala Ceramic Mug","category":"Unisex","designCategory":"Mandala","type":"Mug","sizes":["300ml"],"colors":["White"],"basePrice":349}
+]
